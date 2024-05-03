@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 ![CarlosCesarO GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCesarO&show_icons=true&theme=transparent)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCesarO&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCesarO&hide_progress=false)  
+[![CarlosCesarO WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/CarlosCesarO/github-readme-stats)
